@@ -1,0 +1,33 @@
+.container {
+    background-color: #86f88e;
+    padding: 20px;
+    border-radius: 50px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.row {
+    gap: 20px;
+    justify-content: center;
+    padding: 10px;
+}
+
+.col-3 {
+    background-color: #86f88e;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+span {
+    font-weight: bold;
+    color: #343a40;
+    background-color: #ffd65c;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFB5c1yHsvh2_rRSm7p6LSzbzmateogpf6yjLJn91kk4niPx11r0ca2AQ&s=10");
+    background-size: cover;
+    background-position: center;
+}
